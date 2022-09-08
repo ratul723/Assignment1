@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    background-color: aliceblue;
+    margin: 0px;
+}
+
+.section1 {
+    display: flex;
+    margin-top: 45px;
+}
+
+.stay-focused {
+    width: 50%;
+    margin-left: 130px;
+}
+
+.stay-focused img {
+    width: 75%;
+}
+
+.firstpart {
+    font-family: 'Poppins';
+    margin-top: 90px;
+    border-left: 3px solid rgb(255, 51, 0);
+    padding-left: 10px;
+    border-radius: 2px;
+    font-size: 35px;
+    margin-bottom: -15px;
+}
+
+.Orange-color {
+    color: rgb(226, 155, 24);
+}
+
+.linkbutton1 {
+    text-decoration: none;
+    text-align: center;
+    padding: 12px 30px;
+    background-color: #f04842;
+    color: azure;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.secondpart p {
+    padding-bottom: 10px;
+}
