@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
     margin: 0px;
 }
 
@@ -42,6 +42,207 @@ body {
     font-size: 15px;
 }
 
+.secondpart {
+    color: rgb(56, 55, 55);
+}
+
 .secondpart p {
     padding-bottom: 10px;
+}
+
+.secondpart h5 {
+    padding-top: 13px;
+}
+
+/*--------Section2---------*/
+
+
+.Mymission h1 {
+    color: #13103A;
+    font-size: 40px;
+    text-align: center;
+    margin-top: -3px;
+}
+
+.thirdpart {
+    display: flex;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.thirdpart img {
+    width: 50%;
+}
+
+.mvg {
+    width: 33%;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 30px;
+    padding: 15px 20px;
+    border-radius: 25px;
+}
+
+#mission {
+    background-color: #e5f0f1;
+}
+
+#vision {
+    background-color: #ffe8e8;
+}
+
+#goals {
+    background-color: #FFF4D6;
+}
+
+.mvg p {
+    color: #525050;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+/*-------section3-------*/
+
+
+.section3 {
+    display: flex;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 70px 90px;
+    background-size: 200px;
+
+
+}
+
+.Developimg img {
+    width: 60%;
+    margin-left: 27%;
+    margin-top: 25px;
+}
+
+.dev-with-limit {
+    margin-right: 180px;
+    margin-top: 50px;
+}
+
+.dev-with-limit p {
+    padding-bottom: 20px;
+    line-height: 1.5;
+    color: #4B4B4B;
+}
+
+.dev-with-limit h1 {
+    font-size: 35px;
+    color: #333333;
+}
+
+/*-------section4-------*/
+
+
+.section4 {
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 11%;
+    background-image: url(shapes/shape-1.png);
+    background-position: 870px 300px;
+    background-repeat: no-repeat;
+    background-size: 170px;
+
+}
+
+.gloimg img {
+    width: 55%;
+    margin-top: 50px;
+    padding-left: 115px;
+    padding-bottom: 100px;
+}
+
+.knw-glo-com {
+    margin-top: 60px;
+}
+
+.knw-glo-com h1 {
+    font-size: 35px;
+    color: #333333;
+}
+
+.knw-glo-com p {
+    padding-bottom: 20px;
+    line-height: 1.5;
+    color: #4B4B4B;
+    font-size: 17px;
+}
+
+/*--------Section5--------*/
+.section5 {
+    padding-bottom: 50px;
+    background-image: url(shapes/shape-3.png), url(shapes/shape-3.png), url(shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: 170px 60px, 210px 530px, 430px 350px;
+    background-size: 150px, 80px, 80px;
+}
+
+.Section5area {
+    display: flex;
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.CoronaApp h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.StaysafeImg img {
+    width: 70%;
+    margin-left: 10%;
+
+}
+
+.Staysafe {
+    margin-top: 50px;
+    margin-right: 30px;
+    margin-left: 40px;
+    padding-right: 25px;
+}
+
+.Staysafe h1 {
+    font-size: 45px;
+    line-height: 1.4;
+}
+
+.Staysafe p {
+    font-size: 18px;
+    color: #4B4B4B;
+    padding-bottom: 20px;
+}
+
+/*------footerarea------*/
+
+
+.footerarea {
+    height: 170px;
+    width: 100%;
+    background-color: #0B0D17;
+    text-align: center;
+}
+
+.red {
+    color: #DC4E4F;
+}
+
+.footerarea h1 {
+    padding-top: 40px;
+    color: #e5f0f1;
+    font-family: 'Lobster';
+}
+
+.footerarea p {
+    color: #C3C5CB;
+    padding-top: 10px;
+    font-size: 13px;
+    font-family: ;
 }
